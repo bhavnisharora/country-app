@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+  .countryDetails {
+    text-align: center;
+  }
+
+  .countryDetails img {
+    width: 280px;
+    height: 150px;
+  }
+}

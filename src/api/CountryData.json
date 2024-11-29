@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "countryName": "United States",
+      "capital": "Washington, D.C.",
+      "interestingFact": "The United States has no official language.",
+      "population": 331002651
+    },
+    {
+      "id": 2,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "interestingFact": "Canada has more lakes than the rest of the world combined.",
+      "population": 38005238
+    },
+    {
+      "id": 3,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "interestingFact": "India is the world's largest democracy.",
+      "population": 1380004385
+    },
+    {
+      "id": 4,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "interestingFact": "Japan consists of over 6,800 islands.",
+      "population": 125960000
+    },
+    {
+      "id": 5,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "interestingFact": "Australia is the only continent covered by a single country.",
+      "population": 25687041
+    },
+    {
+      "id": 6,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "interestingFact": "Brazil is home to the Amazon Rainforest, the world's largest tropical rainforest.",
+      "population": 212559417
+    },
+    {
+      "id": 7,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "interestingFact": "Germany is known as the land of poets and thinkers.",
+      "population": 83166711
+    },
+    {
+      "id": 8,
+      "countryName": "South Africa",
+      "capital": "Pretoria",
+      "interestingFact": "South Africa has three capital cities.",
+      "population": 59308690
+    },
+    {
+      "id": 9,
+      "countryName": "China",
+      "capital": "Beijing",
+      "interestingFact": "China is the most populous country in the world.",
+      "population": 1444216107
+    },
+    {
+      "id": 10,
+      "countryName": "France",
+      "capital": "Paris",
+      "interestingFact": "France is the most visited country in the world.",
+      "population": 65273511
+    }
+  ]
