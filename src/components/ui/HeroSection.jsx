@@ -6,7 +6,7 @@ const HeroSection = () => {
       <div className="row">
         <div className="col-md-6 text-md-start text-center">
           <p className="fs-1">
-            <span className="text-primary fst-italic">Explore the World,</span>
+            <span className="text-primary fst-italic">Explore the World, </span>
             One Country at a Time.
           </p>
           <p className="lead" style={{ maxWidth: "700px" }}>
@@ -20,7 +20,8 @@ const HeroSection = () => {
             Start Exploring
           </button>
         </div>
-        <div className="col-md-6 text-center mt-5 mt-md-0">
+
+        <div className="col-md-6 text-center my-5 my-md-0">
           <img
             style={{ height: "300px", width: "320px" }}
             src="https://pngimg.com/d/globe_PNG33.png"

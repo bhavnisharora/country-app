@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <>
-      <footer className="bg-primary text-light py-5">
+      <footer className="bg-primary text-light pt-5">
         <div className="container">
           <div className="row text-center text-md-start ">
             {/* About Section */}
@@ -91,7 +91,8 @@ const Footer = () => {
         </div>
 
         {/* Footer Bottom */}
-        <div className="bg-dark text-center py-3">
+
+        <div className="bg-dark text-center pt-3">
           <p className="mb-0">
             &copy; {new Date().getFullYear()} Your Company. All rights reserved.
           </p>
