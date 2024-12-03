@@ -64,7 +64,9 @@ const Contact = () => {
 
         {/* Contact Info */}
         <div className="col-md-6 mb-6">
-          <p className="fs-1 text-capitalize fw-bold">Contact Information</p>
+          <p className="fs-1 text-capitalize fw-bold mt-5 mt-md-0">
+            Contact Information
+          </p>
           <p className="mt-3">
             <i className="bi bi-geo-alt-fill me-2"></i> 123 Main Street,
             Anytown, USA

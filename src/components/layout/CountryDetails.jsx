@@ -17,6 +17,7 @@ const CountryDetails = () => {
           console.log(res.data);
         }
       } catch (err) {
+        v;
         setError(err.message);
       } finally {
         setLoading(false);

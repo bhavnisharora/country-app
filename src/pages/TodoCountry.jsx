@@ -35,7 +35,7 @@ function TodoCountry() {
   };
 
   return (
-    <div className="container mt-5">
+    <div className="container mt-5 min-vh-100 ">
       <h1 className="text-center mb-4">Country To-Do App</h1>
       <div className="input-group mb-3">
         <input
