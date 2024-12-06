@@ -92,7 +92,7 @@ const Footer = () => {
 
         {/* Footer Bottom */}
 
-        <div className="bg-dark text-center pt-3">
+        <div className="bg-dark text-center py-3">
           <p className="mb-0">
             &copy; {new Date().getFullYear()} Your Company. All rights reserved.
           </p>
